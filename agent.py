@@ -8,7 +8,7 @@ from telegram import InlineQueryResultArticle, InputTextMessageContent
 import uuid
 
 # ==================== CONFIGURATION ====================
-TOKEN = "9070118980:AAH9NFjPKjG26q4LRnAQ-ho8bniX0W6mYwc"  # Your Bot Token
+TOKEN = ""  # Your Bot Token
 TASKS_FILE = "tasks.json"
 # =======================================================
 
