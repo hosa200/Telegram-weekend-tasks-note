@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "عاوز أفك المراوح و أغسلها",
+    "author": "Hossam Yonis",
+    "done": false
+  },
+  {
+    "id": 2,
+    "text": "عاوز اركب الملايات بتاعت كنبه زيد",
+    "author": "Hossam Yonis",
+    "done": false
+  },
+  {
+    "id": 3,
+    "text": "عاوز اصمم مكتبه ورا كنبه الصالون",
+    "author": "Hossam Yonis",
+    "done": false
+  }
+]
